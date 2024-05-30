@@ -55,20 +55,20 @@
 				<div class="mobile-menu-area d-lg-none">
 					<div class="mobile-menu-area-inner" id="scrollbar">
 						<ul class="m-menu">
-							<li><a class="active" href="#">Home</a> 
+							<li><a class="active" href="/">Anasayfa</a> 
 								
 							</li>
-							<li><a href="#">Pages</a>
+							<li><a href="/about">Hakkımızda</a>
 								
 							</li>
-							<li><a href="#">Products</a>
+							<li><a href="#">Ürünler</a>
 								
 							</li>
-							<li><a href="">Services</a></li>
-							<li><a href="#">Blog</a>
+							
+						
 								
 							</li>
-							<li><a href="">Contact us</a></li>
+							<li><a href="">İletişim</a></li>
 						</ul>
 						<ul class="social-link-list d-flex flex-wrap">
 							<li><a href="#" class="facebook"><i class=" fab fa-facebook-f"></i></a></li>
@@ -117,15 +117,11 @@
 									</a>
 									<div class="main-menu-area d-flex align-items-center">
 										<ul class="main-menu d-flex align-items-center">
-											<li><a class="active" href="#">Anasayfa</a> 
+											<li><a class="active" href="/">Anasayfa</a> 
 												
 											</li>
-											<li><a href="#">Sayfalar</a>
-												<ul class="submenu">
-													<li><a href="">Hakkımızda</a></li>
-													<li><a href="#">Galeri</a></li>
-													<li><a href="">404</a></li>
-												</ul>
+											<li><a href="/about">Hakkımızda</a>
+												
 											</li>
 											<li><a href="#">Ürünler</a></li>
 											
