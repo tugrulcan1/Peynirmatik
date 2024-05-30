@@ -43,7 +43,7 @@
 		<div class="mobile-menu">
 			<nav class="mobile-header primary-menu d-lg-none">
 				<div class="header-logo">
-					<a href="index.html" class="logo"><img src="assets/images/logo/peynirmatik-logo.png" alt="logo"></a>
+					<a href="" class="logo"><img src="assets/images/logo/peynirmatik-logo.png" alt="logo"></a>
 				</div>
 				<div class="header-bar" id="open-button">
 					<span></span>
@@ -112,7 +112,7 @@
 						<nav class="primary-menu">
 							<div class="menu-area">
 								<div class="row justify-content-between align-items-center">
-									<a href="index.html" class="logo">
+									<a href="" class="logo">
 										<img src="assets/images/logo/peynirmatik-logo.png" alt="logo">
 									</a>
 									<div class="main-menu-area d-flex align-items-center">

@@ -170,7 +170,7 @@
 											<li><i class="fas fa-star"></i></li>
 											<li><i class="fas fa-star-half"></i></li>
 										</ul>
-										<p>(Review 3)</p>
+										<p>(Açıklama)</p>
 										<span class="price">$45.99</span>
 									</div>
 									
@@ -192,7 +192,7 @@
 											<li><i class="fas fa-star"></i></li>
 											<li><i class="fas fa-star-half"></i></li>
 										</ul>
-										<p>(Review 3)</p>
+										<p>(Açıklama)</p>
 										<span class="price">$45.99</span>
 									</div>
 								</div>
@@ -213,7 +213,7 @@
 											<li><i class="fas fa-star"></i></li>
 											<li><i class="fas fa-star-half"></i></li>
 										</ul>
-										<p>(Review 3)</p>
+										<p>(Açıklama)</p>
 										<span class="price">$45.99</span>
 									</div>
 								</div>
@@ -234,7 +234,7 @@
 											<li><i class="fas fa-star"></i></li>
 											<li><i class="fas fa-star-half"></i></li>
 										</ul>
-										<p>(Review 3)</p>
+										<p>(Açıklama)</p>
 										<span class="price">$45.99</span>
 									</div>
 									
@@ -260,7 +260,7 @@
 											<li><i class="fas fa-star"></i></li>
 											<li><i class="fas fa-star-half"></i></li>
 										</ul>
-										<p>(Review 3)</p>
+										<p>(Açıklama)</p>
 										<span class="price">$99.99</span>
 									</div>
 									
@@ -281,7 +281,7 @@
 											<li><i class="fas fa-star"></i></li>
 											<li><i class="fas fa-star-half"></i></li>
 										</ul>
-										<p>(Review 3)</p>
+										<p>(Açıklama)</p>
 										<span class="price">$59.99</span>
 									</div>
 								</div>
@@ -301,7 +301,7 @@
 											<li><i class="fas fa-star"></i></li>
 											<li><i class="fas fa-star-half"></i></li>
 										</ul>
-										<p>(Review 3)</p>
+										<p>(Açıklama)</p>
 										<span class="price">$79.99</span>
 									</div>
 									
@@ -310,7 +310,7 @@
 							<div class="product-pagination"></div>
 						</div>
 					</div>
-					<a href="shope-page.html" class="btn btn-m-t">Tüm Ürünleri Gör</a>
+					<a href="" class="btn btn-m-t">Tüm Ürünleri Gör</a>
 				</div>
 			</div>
 		</section>

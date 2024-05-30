@@ -60,7 +60,7 @@
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star-half"></i></li>
                                         </ul>
-                                        <p>(Review 3)</p>
+                                        <p>(Açıklama)</p>
                                     </div>
 
                                     <span class="price">$25.99</span>
@@ -80,7 +80,7 @@
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star-half"></i></li>
                                         </ul>
-                                        <p>(Review 3)</p>
+                                        <p>(Açıklama)</p>
                                     </div>
 
                                     <span class="price">$25.99</span>
@@ -100,7 +100,7 @@
                                             <li><i class="fas fa-star"></i></li>
                                             <li><i class="fas fa-star-half"></i></li>
                                         </ul>
-                                        <p>(Review 3)</p>
+                                        <p>(Açıklama)</p>
                                     </div>
 
                                     <span class="price">$25.99</span>
